@@ -1,0 +1,2 @@
+﻿<App xmlns:dt="urn:schemas-microsoft-com:datatypes"><Logon><User></User><PassUnicode dt:dt="ui4">1</PassUnicode><Password dt:dt="bin.base64"></Password><SessionID></SessionID></Logon><Connection><Port dt:dt="ui4">80</Port><StartMode dt:dt="ui4">0</StartMode><PrimaryServer>yardits.goodwintx.com</PrimaryServer><SecondaryServer /></Connection><Startup xmlns:dt="urn:schemas-microsoft-com:datatypes"><AppDesc>Shortcut</AppDesc><AppName>Yardi Property Management</AppName><Dispose dt:dt="ui4">1</Dispose><PublishedApp>#2</PublishedApp></Startup>
+</App>

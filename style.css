@@ -1,0 +1,100 @@
+p,
+li,
+div {
+  margin: 0 0 10pt;
+  line-height: 115%;
+  font-size: 11.0pt;
+  font-family: "Calibri", sans-serif;
+}
+body.Applications {
+  background-color: #D9D9D9;
+  background:linear-gradient(-90deg,darkgrey,silver);
+}
+body
+:lang(en) > q { quotes: '\201C' '\201D' '\2018' '\2019'; }
+:link {
+  color: blue;
+}
+:visited {
+  color: purple;
+}
+
+div.Applications {
+  background-color: #f2ede2;
+  max-width: 700px;
+}
+
+table.Applications {
+  border: 1;
+  background-color: #f2ede2;
+  border-collapse: collapse;
+  border: none;
+}
+
+tr.Applications {
+  height: 1.5in;
+}
+td.Applications {
+  width: 120pt;
+  border: solid black 1.0pt;
+  padding: 0in 5.4pt 0in 5.4pt;
+  height: 1.5in;
+}
+p.Applications,
+li.Applications,
+div.Applications {
+  align-content: space-around;
+  align-items: center;
+  margin: 0;
+  text-align: center;
+  line-height: normal;
+}
+span.Applications:hover {
+  color:LinkText;
+  text-decoration:none;
+  background-color: orange;
+
+}
+img.Icon {
+  border: 0;
+  width:45pt;
+  height:45pt;
+}
+img.Logo{
+  width: 144px;
+  height: 45pt;
+  border: 0;
+}
+h1 {
+  margin-right: 0in;
+  margin-left: 0in;
+  font-size: 24.0pt;
+  font-family: "Calibri","Helvetica", sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+  margin-top: 0in;
+  margin-right: 0in;
+  margin-bottom: 10.0pt;
+  margin-left: 0in;
+  line-height: 115%;
+  font-size: 11.0pt;
+  font-family: "Calibri", sans-serif;
+}
+
+a:link,
+span.MsoHyperlink {
+  color: blue;
+  text-decoration: underline;
+  transition: background-color .5s;
+}
+a:visited,
+span.MsoHyperlinkFollowed {
+  color: purple;
+  text-decoration: underline;
+}
